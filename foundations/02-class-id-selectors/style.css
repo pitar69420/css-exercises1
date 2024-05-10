@@ -1,0 +1,18 @@
+.odd {
+    background-color: #f1c0a6bb;
+    font-family: Verdana, "Dejavu Sans", sans-serif    
+}
+
+.med-text {
+    font-size: 24px;
+}
+
+#nr2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#nr4 {
+    background-color: #00ff0045;
+    font-weight: bold;
+}
