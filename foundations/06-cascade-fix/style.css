@@ -8,7 +8,8 @@ body {
   font-weight: 800;
 }
 
-.small-para {
+/* added .para at the beginning */
+.para.small-para {
   font-size: 14px;
   font-weight: 800;
 }
@@ -17,7 +18,8 @@ body {
   font-size: 22px;
 }
 
-.confirm {
+/* changed from class selector to id selector */
+#confirm-button {
   background: green;
   color: white;
   font-weight: bold;
@@ -29,7 +31,8 @@ body {
   font-size: 20px;
 }
 
-.child {
+/* added parent class .text */
+.text > .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
